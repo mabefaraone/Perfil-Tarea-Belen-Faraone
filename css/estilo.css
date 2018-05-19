@@ -1,0 +1,69 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGTnaUXKJmkHCEASTIJUmkUFUnko7W_U1ZFvw99b0hRrzGXO7);
+}
+
+small{ 
+	font-size:1.5em;
+	font-family: 'Calligraffitti', cursive;
+	color:white;
+	text-shadow:2px 0px 5px black;
+}
+
+p{
+	
+font-family: 'Covered By Your Grace', cursive;
+}
+
+h2{
+	color:white;
+	font-family: 'Indie Flower', cursive;
+}
+
+
+big{
+	font-size:2.5em;
+	color:white;
+	text-shadow:2px 0px 5px black;
+	font-family: 'Calligraffitti', cursive;
+}
+
+img{
+	border-radius:100%;
+}
+.panel-heading{
+ padding : 4%;
+ heigth
+}
+.panel-title{
+font-size: 2em;
+}
+.container{
+	margin-top:5%;
+	padding-top:2%;
+
+	border-radius:5px;
+	padding-right:2%;
+}
+.thumbnail{
+	background:url(https://image.freepik.com/vetores-gratis/fundo-decorativo-com-formas-ornamentais_1048-2499.jpg);
+	
+}
+.col-md-7{
+	background:url(https://image.freepik.com/vetores-gratis/fundo-decorativo-com-formas-ornamentais_1048-2499.jpg);
+	width: 300 px; 
+	heigth:300 px;
+}
+.icon{
+	width: 40px;
+	heigth: 40px;
+	display: flex;
+	justify-content: space-around;
+}
+
+
+
+
